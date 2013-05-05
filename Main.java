@@ -1,7 +1,7 @@
 /*
 * A simple chat server
 * GitHub - https://github.com/anjanborah/Chat_Server_Java_Single_Threaded
-* Author - Anjan Borah
+* Author - Anjan Borah < anjanborah@aol.com >
 * Copyright ( c ) 2013 Anjan Borah
 */
 
